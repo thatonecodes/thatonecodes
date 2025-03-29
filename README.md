@@ -14,17 +14,6 @@ I'm a passionate developer with a strong focus on security, backend development,
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatonecodes&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-## 🌱 Learning & Exploring
-- Improving my skills in **hash table algorithms** 🔍
-- Learning **French** 🇫🇷
-- Enhancing my **web security** knowledge 🔐
-
-## 💬 Ask Me About
-- Web security & pentesting 🛡️
-- Backend development & API design 🌐
-- Game development in Roblox || Unity 🎮
-- Automating tasks with Python ⚙️
-
 ## 📫 Connect With Me
 - GitHub: [@thatonecodes](https://github.com/thatonecodes)
 - Email: [audsxcity@gmail.com](mailto:audsxcity@gmail.com)
