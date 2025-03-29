@@ -46,11 +46,6 @@ AmfoI30CGwwACgkQ1M+gawTfRe9okgD/cCTLP6aRfsz1KSl1kdA0/CFVCooqcUyQ
 ```
 - More ways to reach me coming soon! 🚀
 
-## ⚡ Fun Facts
-- My favorite ramen: **Buldak Extra Carbonara** 🍜🔥
-- I have the **Gopher mascot** for Go 🐹
-- I love **optimizing performance & debugging complex issues** 🛠️
-
 <!--
 **thatonecodes/thatonecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
