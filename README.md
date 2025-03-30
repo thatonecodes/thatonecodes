@@ -16,21 +16,29 @@ I'm a passionate developer with a strong focus on security, backend development,
 
 ## 📫 Connect With Me
 - GitHub: [@thatonecodes](https://github.com/thatonecodes)
-- Email: [audsxcity@gmail.com](mailto:audsxcity@gmail.com)
+- Email: `null` for now
 - GPG Public key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZ+gjfRYJKwYBBAHaRw8BAQdAJLTjvivLDqXiNfHEXmBRUkIdwE5lBR9JCkNb
 zaFr2Fq0Kk1haGVyICh0aGF0b25lY29kZXMpIDxhdWRzeGNpdHlAZ21haWwuY29t
-PoiTBBMWCgA7FiEE/eJ1cQzdGUjWVpjs1M+gawTfRe8FAmfoI30CGwMFCwkIBwIC
-IgIGFQoJCAsCBBYCAwECHgcCF4AACgkQ1M+gawTfRe9tNAD/XCc6lbfEh3vofQDZ
-A2Jzn2dHQZqghsaAtbN+FXEIhYwA/RpzngEiYtJkbwApXcUAVqlJgOuUcmhhegNA
-CfKb+3EFuDgEZ+gjfRIKKwYBBAGXVQEFAQEHQIvbDgJ3xgB+1Hg+YqCdE3CDlqzt
-yVmKXGpN6MXnAfECAwEIB4h4BBgWCgAgFiEE/eJ1cQzdGUjWVpjs1M+gawTfRe8F
-AmfoI30CGwwACgkQ1M+gawTfRe9okgD/cCTLP6aRfsz1KSl1kdA0/CFVCooqcUyQ
-7YL9gw9qrwMA/A8KjJ7mdzqowGHCCiWZqbFFEAd5RlUDYba/sWhA28cO
-=SETA
+Poh4BDAWCgAgFiEE/eJ1cQzdGUjWVpjs1M+gawTfRe8FAmfo3AYCHSAACgkQ1M+g
+awTfRe/cpQD/e5IxfNZMJpU8F+tBrrsfB1JaxtKLOPHAXTMEui7M/ZcBAJ8lE/uD
+6alu5PLADtXzzyH2Y6c4saPYb85lo2YfmsYGiJMEExYKADsWIQT94nVxDN0ZSNZW
+mOzUz6BrBN9F7wUCZ+gjfQIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAK
+CRDUz6BrBN9F7200AP9cJzqVt8SHe+h9ANkDYnOfZ0dBmqCGxoC1s34VcQiFjAD9
+GnOeASJi0mRvACldxQBWqUmA65RyaGF6A0AJ8pv7cQW0Rk1haGVyICh0aGF0b25l
+Y29kZXMpIDwxMTQzMTc5MzcrdGhhdG9uZWNvZGVzQHVzZXJzLm5vcmVwbHkuZ2l0
+aHViLmNvbT6IkwQTFgoAOxYhBP3idXEM3RlI1laY7NTPoGsE30XvBQJn6NuQAhsD
+BQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJENTPoGsE30XvKP4BAMvsQ2uZ
+2tUgv/KELImLxmzI+N9zXUt4nWJ47MnmeTFfAP9ZabWQoAh4n+bexEqwgABbrK8a
+vDkZYej1MzNjuAO2Crg4BGfoI30SCisGAQQBl1UBBQEBB0CL2w4Cd8YAftR4PmKg
+nRNwg5as7clZilxqTejF5wHxAgMBCAeIeAQYFgoAIBYhBP3idXEM3RlI1laY7NTP
+oGsE30XvBQJn6CN9AhsMAAoJENTPoGsE30XvaJIA/3Akyz+mkX7M9SkpdZHQNPwh
+VQqKKnFMkO2C/YMPaq8DAPwPCoye5nc6qMBhwgolmamxRRAHeUZVA2G2v7FoQNvH
+Dg==
+=MY69
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 - More ways to reach me coming soon! 🚀
