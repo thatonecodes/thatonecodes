@@ -3,14 +3,27 @@
 ## 🚀 About Me
 I'm a passionate developer with a strong focus on security, backend development, and automation. Whether it's writing efficient code, optimizing performance, or securing applications, I'm always eager to learn and explore new technologies.
 
-## 🛠 Tech Stack
-![Python Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png) ![Django logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png) ![Numpy Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png) ![Selenium Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png)
-![Java logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png)
-![Javascript Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png) ![TypeScript Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png) ![HTML logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png) ![CSS logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png) ![Vue Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png) ![React Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png) ![Vite logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png) ![SassLogo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png) ![ExpressJS logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png)
-![Lua Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png)
-![Go Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png)
-![C# logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png) ![Unity](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png)
-![POSTGRESQL logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png) ![MySQL Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png) ![Redis Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png)
+## 🛠 Tech Stack<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" style="max-width: 100px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" style="max-width: 100px;">
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatonecodes&theme=default&show_icons=true&hide_border=true&count_private=true)
