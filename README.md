@@ -1,5 +1,4 @@
 # Hi there, I'm Maher! 👋
-![Profile Views](https://abacus.jasoncameron.dev/hit/thatonecodes/visits/shield?text=Profile+Views)
 
 ## 🚀 About Me
 I'm a passionate developer with a strong focus on security, backend development, and automation. Whether it's writing efficient code, optimizing performance, or securing applications, I'm always eager to learn and explore new technologies.
