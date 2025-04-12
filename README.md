@@ -1,5 +1,9 @@
 # Hi there, I'm Maher! 👋
 
+<div align="center">
+<a> <img src="https://abacus.jasoncameron.dev/hit/thatonecodes/github/shield?text=Profile+Views"/> </a>
+</div> 
+
 ## 🚀 About Me
 I'm a passionate developer with a strong focus on security, backend development, and automation. Whether it's writing efficient code, optimizing performance, or securing applications, I'm always eager to learn and explore new technologies.
 
