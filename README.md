@@ -27,7 +27,7 @@ I'm a passionate developer with a strong focus on security, backend development,
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" style="width: 100px;">
 
 ## 📊 Github Stats
-<a> <img src="https://abacus.jasoncameron.dev/hit/thatonecodes/github/shield?text=Profile+Views"/> </a>
+<a> <img src="https://abacus.jasoncameron.dev/hit/thatonecodes/github/shield?text=Profile+Views"/> </a>  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatonecodes&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ## 📫 Connect With Me
