@@ -1,4 +1,5 @@
 # Hi there, I'm Maher! 👋
+![Profile Views](https://abacus.jasoncameron.dev/hit/thatonecodes/visits/shield?text=Profile+Views)
 
 ## 🚀 About Me
 I'm a passionate developer with a strong focus on security, backend development, and automation. Whether it's writing efficient code, optimizing performance, or securing applications, I'm always eager to learn and explore new technologies.
@@ -26,7 +27,7 @@ I'm a passionate developer with a strong focus on security, backend development,
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" style="width: 100px;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" style="width: 100px;">
 
-## 📊 GitHub Stats
+## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatonecodes&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ## 📫 Connect With Me
