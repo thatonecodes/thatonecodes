@@ -1,7 +1,12 @@
 # Hi there, I'm Maher! 👋
 
 ## 🚀 About Me
-I'm a passionate developer with a strong focus on security, backend development, and automation. Whether it's writing efficient code, optimizing performance, or securing applications, I'm always eager to learn and explore new technologies.
+- Developer with a focus on backend, security, and automation
+- Experienced in building scalable and secure applications
+- Proficient in performance optimization and system design
+- Comfortable across multiple programming languages and tech stacks
+- Actively exploring new tools and technologies to stay up-to-date
+- Always looking to improve and contribute to meaningful projects
 
 ## 🛠 Tech Stack
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" style="width: 100px;"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" style="width: 100px;"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" style="width: 100px;"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" style="width: 100px;">
