@@ -37,7 +37,7 @@
 
 ## 📫 Connect With Me
 - GitHub: [@thatonecodes](https://github.com/thatonecodes)
-- Email: `null` for now
+- Email: thatonecodes@duck.com
 - GPG Public key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -62,7 +62,6 @@ Dg==
 =MY69
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-- More ways to reach me coming soon! 🚀
 
 <!--
 **thatonecodes/thatonecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
