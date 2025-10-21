@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" style="width: 100px;">
 
 ## 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatonecodes&theme=default&show_icons=true&hide_border=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatonecodes&show_icons=true&hide_border=true&count_private=true)  
 <a> <img src="https://komarev.com/ghpvc/?username=thatonecodes"/> </a>  
 
 ## 📫 Connect With Me
